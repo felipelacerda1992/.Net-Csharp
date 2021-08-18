@@ -1,0 +1,36 @@
+C:\Users\FELIPE_ACER\Desktop\Curso C#\Atividades\Atividades\obj\Debug\Atividades.csprojAssemblyReference.cache
+C:\Users\FELIPE_ACER\Desktop\Curso C#\Atividades\Atividades\obj\Debug\Atividades.Properties.Resources.resources
+C:\Users\FELIPE_ACER\Desktop\Curso C#\Atividades\Atividades\obj\Debug\Atividades.csproj.GenerateResource.cache
+C:\Users\FELIPE_ACER\Desktop\Curso C#\Atividades\Atividades\obj\Debug\Atividades.csproj.CoreCompileInputs.cache
+C:\Users\FELIPE_ACER\Desktop\Curso C#\Atividades\Atividades\bin\Debug\Atividades.exe.config
+C:\Users\FELIPE_ACER\Desktop\Curso C#\Atividades\Atividades\bin\Debug\Atividades.exe
+C:\Users\FELIPE_ACER\Desktop\Curso C#\Atividades\Atividades\bin\Debug\Atividades.pdb
+C:\Users\FELIPE_ACER\Desktop\Curso C#\Atividades\Atividades\obj\Debug\Atividades.frmTarefa.resources
+C:\Users\FELIPE_ACER\Desktop\Curso C#\Atividades\Atividades\obj\Debug\Atividades.exe
+C:\Users\FELIPE_ACER\Desktop\Curso C#\Atividades\Atividades\obj\Debug\Atividades.pdb
+C:\Users\FELIPE_ACER\Desktop\Curso C#\Atividades\Atividades\obj\Debug\Atividades.Media.resources
+C:\Users\FELIPE_ACER\Desktop\Curso C#\Atividades\Atividades\obj\Debug\Atividades.exFunc1.resources
+C:\Users\FELIPE_ACER\Desktop\Curso C#\Atividades\Atividades\obj\Debug\Atividades.exFunc2.resources
+C:\Users\FELIPE_ACER\Desktop\Curso C#\Atividades\Atividades\obj\Debug\Atividades.exFunc3.resources
+C:\Users\FELIPE_ACER\Desktop\Curso C#\Atividades\Atividades\obj\Debug\Atividades.exLista1.resources
+C:\Users\FELIPE_ACER\Desktop\Curso C#\Atividades\Atividades\obj\Debug\Atividades.exPoo1.resources
+C:\Users\FELIPE_ACER\Desktop\Curso C#\Atividades\Atividades\obj\Debug\Atividades.exPoo2.resources
+C:\Users\FELIPE_ACER\Desktop\Curso C#\Atividades\Atividades\obj\Debug\Atividades.exPoo3.resources
+C:\Users\Felipe Lacerda\Desktop\Curso C#\Atividades\Atividades\bin\Debug\Atividades.exe.config
+C:\Users\Felipe Lacerda\Desktop\Curso C#\Atividades\Atividades\bin\Debug\Atividades.exe
+C:\Users\Felipe Lacerda\Desktop\Curso C#\Atividades\Atividades\bin\Debug\Atividades.pdb
+C:\Users\Felipe Lacerda\Desktop\Curso C#\Atividades\Atividades\obj\Debug\Atividades.exFunc1.resources
+C:\Users\Felipe Lacerda\Desktop\Curso C#\Atividades\Atividades\obj\Debug\Atividades.exFunc2.resources
+C:\Users\Felipe Lacerda\Desktop\Curso C#\Atividades\Atividades\obj\Debug\Atividades.exFunc3.resources
+C:\Users\Felipe Lacerda\Desktop\Curso C#\Atividades\Atividades\obj\Debug\Atividades.exLista1.resources
+C:\Users\Felipe Lacerda\Desktop\Curso C#\Atividades\Atividades\obj\Debug\Atividades.exLista2.resources
+C:\Users\Felipe Lacerda\Desktop\Curso C#\Atividades\Atividades\obj\Debug\Atividades.exPoo1.resources
+C:\Users\Felipe Lacerda\Desktop\Curso C#\Atividades\Atividades\obj\Debug\Atividades.exPoo2.resources
+C:\Users\Felipe Lacerda\Desktop\Curso C#\Atividades\Atividades\obj\Debug\Atividades.exPoo3.resources
+C:\Users\Felipe Lacerda\Desktop\Curso C#\Atividades\Atividades\obj\Debug\Atividades.frmTarefa.resources
+C:\Users\Felipe Lacerda\Desktop\Curso C#\Atividades\Atividades\obj\Debug\Atividades.Media.resources
+C:\Users\Felipe Lacerda\Desktop\Curso C#\Atividades\Atividades\obj\Debug\Atividades.Properties.Resources.resources
+C:\Users\Felipe Lacerda\Desktop\Curso C#\Atividades\Atividades\obj\Debug\Atividades.csproj.GenerateResource.cache
+C:\Users\Felipe Lacerda\Desktop\Curso C#\Atividades\Atividades\obj\Debug\Atividades.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Lacerda\Desktop\Curso C#\Atividades\Atividades\obj\Debug\Atividades.exe
+C:\Users\Felipe Lacerda\Desktop\Curso C#\Atividades\Atividades\obj\Debug\Atividades.pdb

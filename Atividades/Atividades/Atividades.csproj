@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C6E532DE-6616-4F8A-B05A-6863770FF41A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Atividades</RootNamespace>
+    <AssemblyName>Atividades</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="exFunc1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="exFunc1.Designer.cs">
+      <DependentUpon>exFunc1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="exFunc2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="exFunc2.Designer.cs">
+      <DependentUpon>exFunc2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="exFunc3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="exFunc3.Designer.cs">
+      <DependentUpon>exFunc3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="exLista1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="exLista1.Designer.cs">
+      <DependentUpon>exLista1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="exLista2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="exLista2.Designer.cs">
+      <DependentUpon>exLista2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="exPoo1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="exPoo1.Designer.cs">
+      <DependentUpon>exPoo1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="exPoo2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="exPoo2.Designer.cs">
+      <DependentUpon>exPoo2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="exPoo3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="exPoo3.Designer.cs">
+      <DependentUpon>exPoo3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Media.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Media.Designer.cs">
+      <DependentUpon>Media.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VerificarClass.cs" />
+    <EmbeddedResource Include="exFunc1.resx">
+      <DependentUpon>exFunc1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="exFunc2.resx">
+      <DependentUpon>exFunc2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="exFunc3.resx">
+      <DependentUpon>exFunc3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="exLista1.resx">
+      <DependentUpon>exLista1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="exLista2.resx">
+      <DependentUpon>exLista2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="exPoo1.resx">
+      <DependentUpon>exPoo1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="exPoo2.resx">
+      <DependentUpon>exPoo2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="exPoo3.resx">
+      <DependentUpon>exPoo3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Media.resx">
+      <DependentUpon>Media.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
