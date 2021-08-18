@@ -1,0 +1,11 @@
+C:\Users\FELIPE_ACER\Desktop\Curso C#\Logica\Logica\bin\Debug\Logica.exe.config
+C:\Users\FELIPE_ACER\Desktop\Curso C#\Logica\Logica\bin\Debug\Logica.exe
+C:\Users\FELIPE_ACER\Desktop\Curso C#\Logica\Logica\bin\Debug\Logica.pdb
+C:\Users\FELIPE_ACER\Desktop\Curso C#\Logica\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\FELIPE_ACER\Desktop\Curso C#\Logica\Logica\obj\Debug\Logica.Form1.resources
+C:\Users\FELIPE_ACER\Desktop\Curso C#\Logica\Logica\obj\Debug\Logica.Properties.Resources.resources
+C:\Users\FELIPE_ACER\Desktop\Curso C#\Logica\Logica\obj\Debug\Logica.csproj.GenerateResource.cache
+C:\Users\FELIPE_ACER\Desktop\Curso C#\Logica\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\FELIPE_ACER\Desktop\Curso C#\Logica\Logica\obj\Debug\Logica.exe
+C:\Users\FELIPE_ACER\Desktop\Curso C#\Logica\Logica\obj\Debug\Logica.pdb
+C:\Users\FELIPE_ACER\Desktop\Curso C#\Logica\Logica\obj\Debug\Logica.frmIMC.resources
